@@ -8399,23 +8399,23 @@
           }
         },
         {
-          "ID": "wrld_ecb3cbb3-20f0-4912-b338-10dd1c6bd26e",
-          "Name": "［4］バーチャルFOXヤタノ 探訪ワールドポータル集４",
-          "Capacity": 32,
+          "ID": "wrld_a1dc3e31-8f6d-4f40-bbdd-f36a1fd5d7e4",
+          "Name": "CHILL PORTAL",
+          "Capacity": 64,
           "RecommendedCapacity": 16,
-          "Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集その４です。すべてのポータルにポータルとレビューコメントとレビュー動画があります。第1420回（2023⁄12⁄15）から第1918回（2025⁄4⁄29）のだいたい500ワールドぶんくらいあります。 This is the fourth portal collection of worlds that Virtual FOX Yatano （＠fox_yata9） has visited so far․ All portals have review comments and review videos․ There are about 500 worlds from the 1420th （2023⁄12⁄15） to the 1918th （2025⁄4⁄29）․",
+          "Description": "CHILL PORTAL 現在167個",
           "Platform": {
             "PC": true,
             "Android": true,
             "iOS": false
           }
         },
-        {
-          "ID": "wrld_a1dc3e31-8f6d-4f40-bbdd-f36a1fd5d7e4",
-          "Name": "CHILL PORTAL",
-          "Capacity": 64,
+         {
+          "ID": "wrld_7d886815-4cc5-4f44-8adc-9a7e1774e6a6",
+          "Name": "［1］バーチャルFOXヤタノ 探訪ワールドポータル集１",
+          "Capacity": 32,
           "RecommendedCapacity": 16,
-          "Description": "CHILL PORTAL 現在167個",
+          "Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集その１です。すべてのポータルにポータルとレビューコメントとレビュー動画があります。第8回（2020⁄1⁄24）から第394回（2021⁄2⁄22）のだいたい300回分くらいあります。 This is Part 1 of a collection of portals of worlds that Virtual FOX Yatano （＠fox_yata9） has explored so far․ All portals have review comments and review videos․ There are about 300 portals from the 8th （1⁄24⁄2020） to the 394th （2⁄22⁄2021）․",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -8447,11 +8447,11 @@
           }
         },
         {
-          "ID": "wrld_5b335e5c-ff21-4b58-ba8c-73991457b3a8",
-          "Name": "［latest］バーチャルFOXヤタノ 探訪ワールドポータル集ロビー",
+          "ID": "wrld_ecb3cbb3-20f0-4912-b338-10dd1c6bd26e",
+          "Name": "［4］バーチャルFOXヤタノ 探訪ワールドポータル集４",
           "Capacity": 32,
           "RecommendedCapacity": 16,
-          "Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集ロビーです。最新はここで反映します。第1919回（2025⁄4⁄30）以降の紹介です。This is a collection of portals to worlds that Virtual FOX Yatano （＠fox_yata9） has visited so far․ The latest information will be reflected here․ This is an introduction to the 1919th visit （April 30‚ 2025） and beyond․ 20250809 ～2018追加",
+          "Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集その４です。すべてのポータルにポータルとレビューコメントとレビュー動画があります。第1420回（2023⁄12⁄15）から第1918回（2025⁄4⁄29）のだいたい500ワールドぶんくらいあります。 This is the fourth portal collection of worlds that Virtual FOX Yatano （＠fox_yata9） has visited so far․ All portals have review comments and review videos․ There are about 500 worlds from the 1420th （2023⁄12⁄15） to the 1918th （2025⁄4⁄29）․",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -8459,11 +8459,11 @@
           }
         },
         {
-          "ID": "wrld_7d886815-4cc5-4f44-8adc-9a7e1774e6a6",
-          "Name": "［1］バーチャルFOXヤタノ 探訪ワールドポータル集１",
+          "ID": "wrld_5b335e5c-ff21-4b58-ba8c-73991457b3a8",
+          "Name": "［latest］バーチャルFOXヤタノ 探訪ワールドポータル集ロビー",
           "Capacity": 32,
           "RecommendedCapacity": 16,
-          "Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集その１です。すべてのポータルにポータルとレビューコメントとレビュー動画があります。第8回（2020⁄1⁄24）から第394回（2021⁄2⁄22）のだいたい300回分くらいあります。 This is Part 1 of a collection of portals of worlds that Virtual FOX Yatano （＠fox_yata9） has explored so far․ All portals have review comments and review videos․ There are about 300 portals from the 8th （1⁄24⁄2020） to the 394th （2⁄22⁄2021）․",
+          "Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集ロビーです。最新はここで反映します。第1919回（2025⁄4⁄30）以降の紹介です。This is a collection of portals to worlds that Virtual FOX Yatano （＠fox_yata9） has visited so far․ The latest information will be reflected here․ This is an introduction to the 1919th visit （April 30‚ 2025） and beyond․ 20250809 ～2018追加",
           "Platform": {
             "PC": true,
             "Android": true,
