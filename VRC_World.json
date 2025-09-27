@@ -29,7 +29,7 @@
 				},
 				{
 					"ID": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
-					"Name": "Japan Street 0․445",
+					"Name": "Japan Street 0․446",
 					"RecommendedCapacity": 60,
 					"Capacity": 80,
 					"Description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
@@ -1199,12 +1199,60 @@
 				{
 					"ID": "wrld_4cc9519e-21c7-49db-a012-d5bf65f3dd49",
 					"Name": "シンプルパターゴルフ コース1",
-					"RecommendedCapacity": 16,
+					"RecommendedCapacity": 32,
 					"Capacity": 32,
-					"Description": "コース２登録できました",
+					"Description": "9⁄3 コース１ アップロード 9⁄10 コース２ アップロード 9⁄17 コース３ アップロード 9⁄26 コース4ラボ入り",
 					"Platform": {
 						"PC": true,
 						"Android": true,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_c05117d0-1f1e-4efd-b8ba-a5935a2bf95b",
+					"Name": "PvP Battle Royale",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "バトロワ風のワールドです。最大8人で戦うことができます。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_fa819873-b75e-4365-9afc-1a503ba770c6",
+					"Name": "RINK SLIDER in VRChat",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is a game world where you can play the 1-on-1 competitive puzzle game ＂Rink Slider․＂ 1対1の対戦型パズルゲーム「リンクスライダー」で遊べるゲームワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_056ab5d5-e054-4ea7-ad85-dedc734ed7b5",
+					"Name": "VRC BOXING ［JP ⁄ EN ⁄ KR］",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "Punchǃ Dodgeǃ Winǃ Experience boxing as a physical e-sport in VRChatǃ ＃vrcboxing",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_12cb1447-ddc1-4cc9-a38f-35615b212a81",
+					"Name": "SightMaestra",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "冒険はもう始まっている。きっと、どこかのお部屋ワールドから。弾幕お部屋ワールドゲーム SightMaestra （サイト・マエストラ）お部屋機能も完備しています。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
 						"iOS": false
 					}
 				}
@@ -2728,7 +2776,7 @@
 					"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
 					"RecommendedCapacity": 20,
 					"Capacity": 80,
-					"Description": "【ENG ⁄ JP】【Ver․4․2․2】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。。",
+					"Description": "【ENG ⁄ JP】【Ver․4․4․2】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。。",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -2908,7 +2956,7 @@
 					"Name": "Katashiro3D - std",
 					"RecommendedCapacity": 32,
 					"Capacity": 32,
-					"Description": "偉大なる原作者に最大の敬意と感謝を。 ネタバレ厳禁。通過者必須。 ワールド内にマニュアル設置済。LastUpdate-2025․8․28 made by Unity2022",
+					"Description": "偉大なる原作者に最大の敬意と感謝を。 ネタバレ厳禁。通過者必須。 ワールド内にマニュアル設置済。LastUpdate-2025․9․15 made by Unity2022",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -2966,9 +3014,9 @@
 				{
 					"ID": "wrld_4cc9519e-21c7-49db-a012-d5bf65f3dd49",
 					"Name": "シンプルパターゴルフ コース1",
-					"RecommendedCapacity": 16,
+					"RecommendedCapacity": 32,
 					"Capacity": 32,
-					"Description": "コース２登録できました",
+					"Description": "9⁄3 コース１ アップロード 9⁄10 コース２ アップロード 9⁄17 コース３ アップロード 9⁄26 コース4ラボ入り",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -2980,7 +3028,7 @@
 					"Name": "Memories Refrain⁄メモリーズ・リフレイン",
 					"RecommendedCapacity": 8,
 					"Capacity": 8,
-					"Description": "フレンド＋やグループなどでのプレイを推奨します。｜3D酔いやてんかんに十分ご注意ください｜バグを見つけた場合、連絡をいただけると助かります。Ver․1․1․29",
+					"Description": "フレンド＋やグループなどでのプレイを推奨します。｜3D酔いやてんかんに十分ご注意ください｜バグを見つけた場合、連絡をいただけると助かります。Ver․1․2․0",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -2990,12 +3038,24 @@
 				{
 					"ID": "wrld_baee38b9-e321-4007-98f6-6df09824450a",
 					"Name": "026․ 차원낚시터 （Dimension Fishing）",
-					"RecommendedCapacity": 25,
-					"Capacity": 50,
-					"Description": "≺Season 1≻≺~6⁄30≻ 수동 저장 시스템을 사용중입니다 ⁄ 手動保存システムを使用しています ⁄ Manual save system in use",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "≺Season 1≻≺~6⁄30≻ 수동 저장 시스템을 사용중입니다 ⁄ 手動保存システムを使用しています ⁄ Manual save system in used",
 					"Platform": {
 						"PC": true,
 						"Android": true,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_5b8ec815-b593-4497-9660-aa7d33c07993",
+					"Name": "筑和グラベルパーク",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "CVS2を使用したオフロードラジコンで遊べるワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": false,
 						"iOS": false
 					}
 				}
@@ -3153,7 +3213,7 @@
 					"Name": "TANKI",
 					"RecommendedCapacity": 12,
 					"Capacity": 24,
-					"Description": "（ver․ 1․08） 動作不安定を感じる時（手牌崩れなど）、USWサーバーでインスタンスを立つ方がおすすめします。 ＃企業・団体・法人による本ワールドを利用した配信・収益化を行う場合、事前にご連絡いただければ幸いです",
+					"Description": "（ver․ 1․10） 動作不安定を感じる時（手牌崩れなど）、USWサーバーでインスタンスを立つ方がおすすめします。 ＃企業・団体・法人による本ワールドを利用した配信・収益化を行う場合、事前にご連絡いただければ幸いです",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -5084,6 +5144,78 @@
 						"Android": true,
 						"iOS": false
 					}
+				},
+				{
+					"ID": "wrld_826178a0-3624-447e-ae17-32c78e356956",
+					"Name": "星と花と古民家と",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "豊かな水をたたえた湖畔に佇む古民家カフェ。 ピアノの音色に耳を傾けながら、満天の星空と花々のきらめきを、コーヒー片手にゆったりとお楽しみください。 1Month WorldWorks 参加作品",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_7dad4236-5d3a-4373-aff2-a97dcef95542",
+					"Name": "A World Of My Own",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "今日もどこかで世界は生まれ続けています。 ＃1MonthWorldWorks 出展作品",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_27e8d086-7862-417e-9f3a-48d41e33b27c",
+					"Name": "運命の路地裏 -A Fortune-Telling World-",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "その扉の先に、運命はすでに記されている。読むかどうかを決めるのは、あなた自身ーーーー。「運命の路地裏」では、AIが導くタロット占いを1日1回、無料で体験できます。さらに、占える内容は日替わりで変化。占いが好きな人も、ちょっとした刺激を探している人も大歓迎！占いシステムを動作させるため、「信頼されていないURLを許可」をオンにしてください。 ⁄ Beyond that door‚ destiny has already been written․ The choice to read itor notis yours․ In Fates Alley‚ you can experience an AI-guided tarot reading once a day‚ for free․ Whats more‚ the content of the readings changes daily․ Whether you love fortune-telling or are simply seeking a little thrill‚ all are welcomeǃ ∗Please make sure ＂Allow Untrusted URL＂ is enabled to use the fortune-telling system․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_bb45a3a7-7a9b-4e18-b06e-03d102b387e8",
+					"Name": "雨見る喫茶店～Rainy cafe～",
+					"RecommendedCapacity": 8,
+					"Capacity": 80,
+					"Description": "欧風の街並みに佇む、雨見市第六地区の小さな喫茶店。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_04062fa9-771b-4f5d-97fd-b7988db4122f",
+					"Name": "湯けむりのコテージ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "露天風呂のあるコテージです。リビング、お風呂、寝室があります。1階の棚の上と2階の机の上にQVペンがあります。また、自動⁄手動で朝と夜を切り替えられます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_9be1cada-92ec-4e81-a90b-a9f389b94935",
+					"Name": "Rooftop Container",
+					"RecommendedCapacity": 10,
+					"Capacity": 15,
+					"Description": "少し遅めの朝、澄み渡る空を少しでも近い場所にて眺めつつ一休み。 ⁄ Low latency VideoPlayer⁄ Mirror ⁄ Pen ⁄ CoffeeSet ⁄ Drinks ⁄ SideDish ⁄ ImageViewer ⁄ SleepSystem ⁄",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
 				}
 			]
 		},
@@ -5296,7 +5428,7 @@
 				},
 				{
 					"ID": "wrld_5deff489-432d-4f22-bd50-3085773faa16",
-					"Name": "Tokyo Mood by BEAMS Summer Version",
+					"Name": "Tokyo Mood by BEAMS",
 					"RecommendedCapacity": 30,
 					"Capacity": 40,
 					"Description": "セレクトショップBEAMSがお届けする、都会の片隅に息づく路地裏ワールド。 Find your place in the backstreets of Tokyo -- a world brought to you by BEAMS‚ Japan's fashion and lifestyle retailer․",
@@ -7057,6 +7189,42 @@
 						"Android": true,
 						"iOS": false
 					}
+				},
+				{
+					"ID": "wrld_46012581-b6b0-4efc-8002-554baeeed2cb",
+					"Name": "ねこと星の木 -Neko and the Star Tree-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "ねこが見守る小さな島。 木の上に登ってみようǃǃ ＃7DaysWorldWorks参加作品。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_a8b17ca6-8cf5-437a-bc47-9e440161dfc8",
+					"Name": "花と魔法",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "かつて魔法使いの少女が暮らしていた部屋。彼女は花を心から愛していたー 1MonthWorldWorks参加作品 ⁄ 一輪だけ持てる花があります（ローカル）。QvPen追加しました。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_a347c49d-e9d7-49d6-bccc-fce77b8aee03",
+					"Name": "超懐郷の秋澄む夜 -Nostalgic Autumn Night 2024-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "夜とトラス橋とモダンな温泉！実際に焼けるBBQも！ ハンドメニューでナイトモードとか打ち上げ花火がオンオフできるよ！ ［HandMenu］VR˸2Click LeftTrigger ⁄ Desktop˸Tab Key",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
 				}
 			]
 		},
@@ -7246,8 +7414,8 @@
 				{
 					"ID": "wrld_b01426e5-34ce-461b-9c78-0aaddcda561d",
 					"Name": "FLASTORE Avatars",
-					"RecommendedCapacity": 20,
-					"Capacity": 40,
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
 					"Description": "This is the world where avatars created by Feedback03 are displayed․",
 					"Platform": {
 						"PC": true,
@@ -7895,6 +8063,18 @@
 						"Android": false,
 						"iOS": false
 					}
+				},
+				{
+					"ID": "wrld_27e8d086-7862-417e-9f3a-48d41e33b27c",
+					"Name": "運命の路地裏 -A Fortune-Telling World-",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "その扉の先に、運命はすでに記されている。読むかどうかを決めるのは、あなた自身ーーーー。「運命の路地裏」では、AIが導くタロット占いを1日1回、無料で体験できます。さらに、占える内容は日替わりで変化。占いが好きな人も、ちょっとした刺激を探している人も大歓迎！占いシステムを動作させるため、「信頼されていないURLを許可」をオンにしてください。 ⁄ Beyond that door‚ destiny has already been written․ The choice to read itor notis yours․ In Fates Alley‚ you can experience an AI-guided tarot reading once a day‚ for free․ Whats more‚ the content of the readings changes daily․ Whether you love fortune-telling or are simply seeking a little thrill‚ all are welcomeǃ ∗Please make sure ＂Allow Untrusted URL＂ is enabled to use the fortune-telling system․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					}
 				}
 			]
 		},
@@ -7975,7 +8155,7 @@
 				},
 				{
 					"ID": "wrld_5deff489-432d-4f22-bd50-3085773faa16",
-					"Name": "Tokyo Mood by BEAMS Summer Version",
+					"Name": "Tokyo Mood by BEAMS",
 					"RecommendedCapacity": 30,
 					"Capacity": 40,
 					"Description": "セレクトショップBEAMSがお届けする、都会の片隅に息づく路地裏ワールド。 Find your place in the backstreets of Tokyo -- a world brought to you by BEAMS‚ Japan's fashion and lifestyle retailer․",
@@ -8440,6 +8620,18 @@
 						"Android": true,
 						"iOS": false
 					}
+				},
+				{
+					"ID": "wrld_faaf2532-6236-45b9-b5d8-a159961e1100",
+					"Name": "somunium",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "インターネットのどこかで歌う少女「somunia」に関する情報を収めた空間。 ＂somunium＂ is a space created to preserve information about somunia․ Whether you know her or not‚ you can enjoy a peaceful moment within a beautiful architectural space․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
 				}
 			]
 		},
@@ -8511,7 +8703,7 @@
 					"Name": "PORTAL STORAGE-ポータルストレージ-",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "2024⁄12⁄22更新 WorldCount PC˸700 Quest˸500 左のPCワールドは景観の良いワールドを、 右のQuestワールドは様々なジャンルのを設置 サムネ画像をUSEする事でポータルが出現します",
+					"Description": "2025⁄09⁄24更新 WorldCount PC˸750 Quest˸525 左のPCワールドは景観の良いワールドを、 右のQuestワールドは様々なジャンルのを設置 サムネ画像をUSEする事でポータルが出現します",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -8583,7 +8775,7 @@
 					"Name": "CHILL PORTAL",
 					"RecommendedCapacity": 16,
 					"Capacity": 64,
-					"Description": "CHILL PORTAL 現在208個",
+					"Description": "CHILL PORTAL 現在238個",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -8644,6 +8836,18 @@
 					"RecommendedCapacity": 20,
 					"Capacity": 40,
 					"Description": "幻会興業の過去のワールドツアーで巡ったワールドを収録しています！ ワールドのリストは、ワールドツアーが終わった後すぐ、毎週日曜日の午前0時に更新されます！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_08e02449-1cd2-4892-9b80-33903221d4cb",
+					"Name": "ゆっくのゲームポータルワールド",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "PortalLibrarySystem（WPPLS）とAsovelが設置してあります WPPLSのライブラリは随時更新します 8⁄27˸ ワールドのジャンル分けを大幅刷新・サムネイルを追加",
 					"Platform": {
 						"PC": true,
 						"Android": true,
@@ -9045,6 +9249,42 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "ボイチェン資料館 バーチャルキャストより移植 初心者向けの内容じゃないかも․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_ef71bbd0-a7f9-4a20-8045-acb65cef6f71",
+					"Name": "金の斧 銀の斧 （The golden axe）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "金の斧を授けてくれる女神の泉発見から50年。人の噂というものは時が経つにつれて変容するものです。ある時は美化され、またある時は嘘に塗り固められ。女神の泉の噂はどうでしょうか。あなたの目で真実を確かめてください。 （このワールドは製作期間7日以内で 完成させるポケット氏企画の 「7Days WorldWorks」 に参加して作成されました。） ＃7DaysWorldWorks ＃えいちの雑貨店",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_a43b92ec-3b13-4623-aeb7-7ba0cc5be5ce",
+					"Name": "最果てに待つ運命 ~Fortune Beneath the Aurora~",
+					"RecommendedCapacity": 78,
+					"Capacity": 80,
+					"Description": "7DaysWorldWorks参加作品。お題は『海外の童話』で、「雪の女王」をモチーフに作成しました。少女の旅を辿り、最果てで待つものを見届けよう。An entry for 7DaysWorldWorks․ The theme was 'Foreign Fairy Tales‚' and this piece was created based on The Snow Queen․ Follow the girls journey and witness what awaits at the farthest end․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					}
+				},
+				{
+					"ID": "wrld_6c72d197-6bb2-4e31-af6f-8d73683bfc80",
+					"Name": "童祀廻堂-ライド型お化け屋敷-",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "ライド型お化け屋敷を作ってみました。 遊園地にある和風のお化け屋敷がコンセプトです。 初めてのワールド作成ですので、自己責任でおこしください。 1周 6分ぐらい 2人乗りなので、並んでお待ち下さい。 I've created a ride-style haunted house․ The concept is based on Japanese-style haunted houses found in amusement parks․ As this is my first world creation‚ please enter at your own risk․ One ride takes about 6 minutes․ It's a two-person ride‚ so please wait in line․",
 					"Platform": {
 						"PC": true,
 						"Android": false,
